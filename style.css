@@ -1,1 +1,9 @@
-h1{font-size: 70px; color: RED; text-align: center; font-style: italic}
+h1{font-size: 70px; color: PURPLE; text-align: center; font-style: italic;}
+
+img{
+  width: 700px;
+  margin-left: 30%
+}
+h3{
+  font-size: 80px
+}
