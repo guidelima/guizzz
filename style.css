@@ -1,0 +1,41 @@
+body{
+  background-color: #966E1D
+}
+header{
+  background-color: #000061
+}
+
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center ;margin-top: 0%}
+
+h1{
+  font-family: inherit; text-align: center; color:black; border: 10px solid #570057;
+}
+
+p{
+  font-family: monospace; font-size: 30px; color: black; text-align: center; border: 10px solid #136E9C;
+}
+
+nav li{
+  display:inline-block;
+  margin: 0 0 0 235px;
+  text-transform: uppercase;
+  border: 3px solid #E0ffff;
+}
+
+nav a:hover{
+  color: #E0ffff;
+  text-decoration: underline;
+}
+
+.logo{
+width: 15%;
+margin-left: 0%;
+}
+
+img{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.infancia{font-family: cursive; background-color: #18C9CC; color: black ; font-size: 30px; text-align: center;}
+.familia{font-family: cursive; background-color: #18C9CC; color: black ; font-size: 30px; text-align: center;}
